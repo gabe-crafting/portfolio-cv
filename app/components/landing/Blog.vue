@@ -39,23 +39,7 @@ if (!posts.value) {
           body: '!px-0',
           header: 'hidden'
         }"
-      >
-        <template #footer>
-          <UButton
-            size="xs"
-            variant="link"
-            class="px-0 gap-0"
-            label="Read Article"
-          >
-            <template #trailing>
-              <UIcon
-                name="i-lucide-arrow-right"
-                class="size-4 text-primary transition-all opacity-0 group-hover:translate-x-1 group-hover:opacity-100"
-              />
-            </template>
-          </UButton>
-        </template>
-      </UBlogPost>
+      />
     </UBlogPosts>
   </UPageSection>
 </template>
