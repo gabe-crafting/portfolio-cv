@@ -1,0 +1,1 @@
+import{y as r,O as c,c as l,h as p,C as u,n as d,aN as s}from"./CSMwn26S.js";const i={base:""},y={__name:"ProseTbody",props:{class:{type:null,required:!1}},setup(e){const a=e,o=r(),t=c(()=>s({extend:s(i),...o.uiPro?.prose?.tbody||{}}));return(n,m)=>(p(),l("tbody",{class:d(t.value({class:a.class}))},[u(n.$slots,"default")],2))}};export{y as default};
