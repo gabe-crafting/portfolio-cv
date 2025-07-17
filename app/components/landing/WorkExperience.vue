@@ -47,10 +47,13 @@ defineProps<{
           <p class="mt-2 ml-4 text-sm text-left text-muted text-balance">
             {{ experience.description || 'No description available.' }}
           </p>
-          <div v-if="experience.skills && experience.skills.length" class=" flex flex-wrap items-center w-full gap-2 justify-center m-2">
+          <div
+            v-if="experience.skills && experience.skills.length"
+            class=" flex flex-wrap items-center w-full gap-2 justify-center m-2"
+          >
             <UBadge
-              v-for="(skill, index) in experience.skills"
-              :key="index + skill.title"
+              v-for="(skill, index2) in experience.skills"
+              :key="index2 + skill.title"
               size="md"
               color="primary"
               variant="outline"
