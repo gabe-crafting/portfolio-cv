@@ -12,30 +12,41 @@ experience:
   title: Work Experience
   items:
     - position: Senior Frontend Developer
-      description: Assume responsibility for the entire frontend development of a banking and insurance react application. Collaborate closely with the backend, testing, and business teams to ensure continuous deployment and integration, ultimately bringing the project to completion. Occasionally partner with frontend and design teams from other companies to integrate with associated software.
-      startDate: '2024-04-01T00:00:00.000Z'
-      endDate: '2024-04-01T00:00:00.000Z'
+      description: Assume responsibility for the entire frontend development of a banking and insurance react/Vite application. Collaborate closely with the backend, testing, and business teams in an agile manner to ensure continuous deployment and integration using AZURE, ultimately bringing the project to completion. Occasionally partner with frontend and design teams from other companies to integrate with associated software.
+      date: '2024-04-01T00:00:00.000Z'
       company:
         name: Cegeka
         logo: ''
         url: ''
         color: '#00DC82'
-    - position: Assets Designer at
-      startDate: '2024-04-01T00:00:00.000Z'
-      endDate: '2024-04-01T00:00:00.000Z'
+      startDate: 2024/04/01
+      endDate: Present
+    - position: ' Senior Front-End Software Engineer'
+      date: 2022 - 2023
       company:
-        name: Raycast
+        name: Whitestone Software
         logo: i-simple-icons-raycast
         url: https://raycast.com
         color: '#FF6363'
-    - position: Senior UX/UI Designer at
-      startDate: '2024-04-01T00:00:00.000Z'
-      endDate: '2024-04-01T00:00:00.000Z'
+      description: Leading the architecture of a React application with micro-frontends; multiple libraries, components, and CDNs. Guide the team, while testing the ground by coding the core features. Integrated a substantial portion of the business logic into the project while establishing essential workflows and tools for the team. Collaborating with fellow team members, I deliberated on optimization techniques and clean coding methodologies to ensure the project remained swift and scalable. (Javascript, React, Redux-toolkit, Webpack/Vite (bundle jobs), Jira, Azure, WebSockets, REST, Tasks administration, Agile)
+      startDate: 2023/03
+      endDate: 2024/03
+    - position: Front-End Software Engineer
+      date: 2020 - 2021
       company:
-        name: Linear
-        logo: i-simple-icons-linear
-        url: https://linear.app
+        name: Arnia Software
+        logo: ''
+        url: ''
         color: '#5E6AD2'
+      startDate: 2021/06
+      endDate: 2023/03
+      description: Collaborate closely with clients to create their applications using component-based architectures, and front-end data management, and incorporate the functionality for end users to customize the product through a graphical interface. Evaluate tasks and features, organize their priority, and adapt the technicality of the user stories to the needs of the client.
+    - startDate: 2019/06
+      endDate: 2021/04
+      position: Javascript Software Engineer
+      description: Mostly work on front-end and UI/UX, occasionally assisting backend and our clients in Testing, overall using Agile methodology. Used React to build and maintain features of complex Single page applications for PC and Mobile Participate in building the app's Architecture for best Modularity, Performance, and Adaptability in concordance with customer needs
+      company:
+        name: Advahoo
 skills:
   - title: react
     icon: i-simple-icons-react
