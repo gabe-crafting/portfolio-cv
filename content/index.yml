@@ -21,6 +21,11 @@ experience:
         color: '#00DC82'
       startDate: 2024/04/01
       endDate: Present
+      skills:
+        - title: react
+          icon: i-simple-icons-react
+        - title: vue
+          icon: i-simple-icons-vue-dot-js
     - position: ' Senior Front-End Software Engineer'
       date: 2022 - 2023
       company:

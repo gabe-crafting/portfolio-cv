@@ -59,7 +59,11 @@ export default defineContentConfig({
               url: z.string(),
               logo: z.string().editor({ input: 'icon' }),
               color: z.string()
-            })
+            }),
+            skills: z.array(z.object({
+              title: z.string(),
+              icon: z.string().editor({ input: 'icon' }).optional()
+            })).optional()
           }))
         }),
         skills: z.array(z.object({
