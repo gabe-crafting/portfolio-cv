@@ -23,9 +23,13 @@ experience:
       endDate: Present
       skills:
         - title: react
-          icon: i-simple-icons-react
-        - title: vue
-          icon: i-simple-icons-vue-dot-js
+          icon: i-logos-react
+        - title: Azure
+          icon: i-logos-microsoft-azure
+        - title: Redux Toolkit
+          icon: i-logos-redux
+        - title: Agile
+        - title: Vite
     - position: ' Senior Front-End Software Engineer'
       date: 2022 - 2023
       company:
