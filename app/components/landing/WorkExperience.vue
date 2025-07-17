@@ -25,7 +25,7 @@ defineProps<{
         >
           <div class="text-muted flex items-center text-nowrap gap-2 w-full">
             <p class="text-sm">
-              {{ experience.date }}
+              {{ experience.startDate }} - {{ experience.endDate }}
             </p>
             <USeparator />
             <ULink
