@@ -18,7 +18,7 @@ experience:
         name: Cegeka
         logo: ''
         url: ''
-        color: '#00DC82'
+        color: ''
       startDate: 2024/04/01
       endDate: Present
       skills:
@@ -38,7 +38,7 @@ experience:
         name: Whitestone Software
         logo: ''
         url: https://raycast.com
-        color: '#FF6363'
+        color: ''
       description: Leading the architecture of a React application with micro-frontends; multiple libraries, components, and CDNs. Guide the team, while testing the ground by coding the core features. Integrated a substantial portion of the business logic into the project while establishing essential workflows and tools for the team. Collaborating with fellow team members, I deliberated on optimization techniques and clean coding methodologies to ensure the project remained swift and scalable.
       startDate: 2023/03
       endDate: 2024/03
@@ -65,7 +65,7 @@ experience:
         name: Arnia Software
         logo: ''
         url: ''
-        color: '#5E6AD2'
+        color: ''
       startDate: 2021/06
       endDate: 2023/03
       description: Collaborate closely with clients to create their applications using component-based architectures, and front-end data management, and incorporate the functionality for end users to customize the product through a graphical interface. Evaluate tasks and features, organize their priority, and adapt the technicality of the user stories to the needs of the client.
@@ -117,6 +117,7 @@ skills:
     icon: i-logos-javascript
   - title: Less
     icon: i-logos-less
+  - title: CSSInJS (JSS)
 advancedSkills:
   - title: Redux
     icon: i-logos-redux
@@ -125,8 +126,26 @@ advancedSkills:
   - title: NODEJS
     icon: i-logos-nodejs-icon
   - title: Pinia
+  - title: Tailwind
+    icon: i-logos-tailwindcss-icon
   - title: Bootstrap
+    icon: i-logos-bootstrap
   - title: Ruby on Rails
+  - title: Mongodb
+  - title: GraphQL
+  - title: Gatsby
+  - title: Jira
+  - title: Unit testing
+  - title: Linux
+  - title: Git
+  - title: Django
+  - title: MVC
+  - title: REST
+  - title: OOP
+  - title: AJAX
+  - title: JQuery
+  - title: Ojet
+  - title: Azure
 projects:
   - title: Portfolio Website
     description: A personal portfolio website showcasing my design and development work.
