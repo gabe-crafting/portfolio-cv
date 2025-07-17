@@ -1,1 +1,0 @@
-import{y as r,O as l,c as p,h as c,C as u,n as i,aN as s}from"./XFva33GV.js";const m={base:"my-5 leading-7 text-pretty"},_={__name:"ProseP",props:{class:{type:null,required:!1}},setup(e){const a=e,t=r(),o=l(()=>s({extend:s(m),...t.uiPro?.prose?.p||{}}));return(n,d)=>(c(),p("p",{class:i(o.value({class:a.class}))},[u(n.$slots,"default")],2))}};export{_ as default};
