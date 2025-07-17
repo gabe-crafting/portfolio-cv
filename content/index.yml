@@ -154,12 +154,10 @@ advancedSkills:
   - title: Ojet
   - title: Azure
 projects:
-  - title: Portfolio Website
-    description: A personal portfolio website showcasing my design and development work.
-  - title: Portfolio Website
-    description: A personal portfolio website showcasing my design and development work.
-  - title: Portfolio Website
-    description: A personal portfolio website showcasing my design and development work.
+  - title: Skyline
+    description: A fully functional news website where journalists have dedicated profile pages and access to a real-time article editor with AJAX capabilities. Built using Ruby on Rails, the platform leverages three databases to demonstrate SQL replication for enhanced performance and reliability.
+  - title: MyAlbum
+    description: A computer application that scans a specified folder, allowing users to tag photos and search them by tags. Designed to streamline image organization and eliminate the need for multiple folders, it is built using Wails, JavaScript, and Go.
 hero:
   images: []
   links: []
