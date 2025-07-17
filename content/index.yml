@@ -39,7 +39,7 @@ experience:
         logo: ''
         url: https://raycast.com
         color: '#FF6363'
-      description: Leading the architecture of a React application with micro-frontends; multiple libraries, components, and CDNs. Guide the team, while testing the ground by coding the core features. Integrated a substantial portion of the business logic into the project while establishing essential workflows and tools for the team. Collaborating with fellow team members, I deliberated on optimization techniques and clean coding methodologies to ensure the project remained swift and scalable. (Javascript, React, Redux-toolkit, Webpack/Vite (bundle jobs), Jira, Azure, WebSockets, REST, Tasks administration, Agile)
+      description: Leading the architecture of a React application with micro-frontends; multiple libraries, components, and CDNs. Guide the team, while testing the ground by coding the core features. Integrated a substantial portion of the business logic into the project while establishing essential workflows and tools for the team. Collaborating with fellow team members, I deliberated on optimization techniques and clean coding methodologies to ensure the project remained swift and scalable.
       startDate: 2023/03
       endDate: 2024/03
       skills:
@@ -69,28 +69,64 @@ experience:
       startDate: 2021/06
       endDate: 2023/03
       description: Collaborate closely with clients to create their applications using component-based architectures, and front-end data management, and incorporate the functionality for end users to customize the product through a graphical interface. Evaluate tasks and features, organize their priority, and adapt the technicality of the user stories to the needs of the client.
+      skills:
+        - title: Vue
+          icon: i-logos-vue
+        - title: Azure
+          icon: i-logos-microsoft-azure
+        - title: Pinia
+          icon: i-logos-pinia
+        - title: Agile
+          icon: ''
+        - title: Canvas
     - startDate: 2019/06
       endDate: 2021/04
       position: Javascript Software Engineer
       description: Mostly work on front-end and UI/UX, occasionally assisting backend and our clients in Testing, overall using Agile methodology. Used React to build and maintain features of complex Single page applications for PC and Mobile Participate in building the app's Architecture for best Modularity, Performance, and Adaptability in concordance with customer needs
       company:
         name: Advahoo
+      skills:
+        - title: Javascript
+          icon: i-logos-javascript
+        - title: React
+          icon: i-logos-react
+        - title: UI/UX
+        - title: Agile
+        - title: React Native
+        - title: NodeJS
+          icon: i-logos-nodejs-icon
     - startDate: 2018/11
       endDate: 01/2019
       position: Java Developer - Internship
       description: Worked on the Frontend and UI/UX on a project made for a particular group of clients. Providing and implementing solutions for their needs. Implement Backend APIs in JAVA in concordance with Business logics
       company:
         name: UniCredit Services
+      skills:
+        - title: Java
+          icon: i-logos-java
+        - title: Javascript
+          icon: i-logos-javascript
+        - title: Postgress SQL
+          icon: i-logos-postgresql
 skills:
-  - title: react
+  - title: React
     icon: i-simple-icons-react
-  - title: vue
-    icon: i-simple-icons-vue-dot-js
+  - title: Vue
+    icon: i-logos-vue
+  - title: Javascript
+    icon: i-logos-javascript
+  - title: Less
+    icon: i-logos-less
 advancedSkills:
-  - title: react
-    icon: i-simple-icons-react
-  - title: vue
-    icon: i-simple-icons-vue-dot-js
+  - title: Redux
+    icon: i-logos-redux
+  - title: VUEX
+    icon: ''
+  - title: NODEJS
+    icon: i-logos-nodejs-icon
+  - title: Pinia
+  - title: Bootstrap
+  - title: Ruby on Rails
 projects:
   - title: Portfolio Website
     description: A personal portfolio website showcasing my design and development work.
