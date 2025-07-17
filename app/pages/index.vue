@@ -20,15 +20,12 @@ useSeoMeta({
 
 <template>
   <UPage v-if="page">
-    <LandingHero :page />
-    <UPageSection
-      :ui="{
-        container: '!pt-0 lg:grid lg:grid-cols-2 lg:gap-8'
-      }"
-    >
-      <LandingAbout :page />
+    <div class="flex flex-col items-center justify-center gap-4 px-4 py-8 sm:py-12 lg:py-16">
+      <LandingHero :page />
+      <LandingContacts :page />
       <LandingWorkExperience :page />
-    </UPageSection>
-    <LandingBlog :page />
+      <LandingSkills :page />
+      <LandingProjects :page />
+    </div>
   </UPage>
 </template>

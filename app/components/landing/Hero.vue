@@ -7,53 +7,14 @@ defineProps<{
 </script>
 
 <template>
-  <UPageHero
-    :ui="{
-      headline: 'flex items-center justify-center',
-      title: 'text-shadow-md max-w-lg mx-auto',
-      links: 'mt-4 flex-col justify-center items-center'
-    }"
-  >
-    <template #title>
-      <Motion
-        :initial="{
-          scale: 1.1,
-          opacity: 0,
-          filter: 'blur(20px)'
-        }"
-        :animate="{
-          scale: 1,
-          opacity: 1,
-          filter: 'blur(0px)'
-        }"
-        :transition="{
-          duration: 0.6,
-          delay: 0.1
-        }"
-      >
-        {{ page.title }}
-      </Motion>
-    </template>
-
-    <template #description>
-      <Motion
-        :initial="{
-          scale: 1.1,
-          opacity: 0,
-          filter: 'blur(20px)'
-        }"
-        :animate="{
-          scale: 1,
-          opacity: 1,
-          filter: 'blur(0px)'
-        }"
-        :transition="{
-          duration: 0.6,
-          delay: 0.3
-        }"
-      >
-        {{ page.description }}
-      </Motion>
-    </template>
-  </UPageHero>
+  <div>
+    <h1
+      class="tracking-tight font-bold text-pretty text-3xl sm:text-4xl lg:text-5xl text-shadow-md max-w-lg mx-auto text-center"
+    >
+      {{ page.title }}
+    </h1>
+    <p class="text-muted text-center mt-2 mb-8 text-sm sm:text-md lg:text-lg">
+      {{ page.description }}
+    </p>
+  </div>
 </template>

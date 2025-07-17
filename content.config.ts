@@ -5,6 +5,13 @@ const createBaseSchema = () => z.object({
   description: z.string()
 })
 
+const createContactSchema = () => z.object({
+  phone: z.string().optional(),
+  email: z.string().email().optional(),
+  linkedin: z.string().url().optional(),
+  github: z.string().url().optional()
+})
+
 const createButtonSchema = () => z.object({
   label: z.string(),
   icon: z.string().optional(),
@@ -29,11 +36,6 @@ const createAuthorSchema = () => z.object({
   avatar: createImageSchema().optional()
 })
 
-const createTestimonialSchema = () => z.object({
-  quote: z.string(),
-  author: createAuthorSchema()
-})
-
 export default defineContentConfig({
   collections: {
     index: defineCollection({
@@ -45,10 +47,12 @@ export default defineContentConfig({
           images: z.array(createImageSchema())
         }),
         about: createBaseSchema(),
+        contact: createContactSchema(),
         experience: createBaseSchema().extend({
           items: z.array(z.object({
             date: z.date(),
             position: z.string(),
+            description: z.string().optional(),
             company: z.object({
               name: z.string(),
               url: z.string(),
@@ -57,20 +61,18 @@ export default defineContentConfig({
             })
           }))
         }),
-        testimonials: z.array(createTestimonialSchema()),
-        blog: createBaseSchema(),
-        faq: createBaseSchema().extend({
-          categories: z.array(
-            z.object({
-              title: z.string().nonempty(),
-              questions: z.array(
-                z.object({
-                  label: z.string().nonempty(),
-                  content: z.string().nonempty()
-                })
-              )
-            }))
-        })
+        skills: z.array(z.object({
+          title: z.string(),
+          icon: z.string().editor({ input: 'icon' })
+        })),
+        advancedSkills: z.array(z.object({
+          title: z.string(),
+          icon: z.string().editor({ input: 'icon' })
+        })),
+        projects: z.array(z.object({
+          title: z.string(),
+          description: z.string()
+        }))
       })
     }),
     projects: defineCollection({
