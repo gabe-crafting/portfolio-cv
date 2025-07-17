@@ -22,14 +22,16 @@ experience:
       startDate: 2024/04/01
       endDate: Present
       skills:
-        - title: react
+        - title: React
           icon: i-logos-react
         - title: Azure
           icon: i-logos-microsoft-azure
         - title: Redux Toolkit
           icon: i-logos-redux
         - title: Agile
+          icon: ''
         - title: Vite
+          icon: i-logos-vitejs
     - position: ' Senior Front-End Software Engineer'
       date: 2022 - 2023
       company:
@@ -40,6 +42,23 @@ experience:
       description: Leading the architecture of a React application with micro-frontends; multiple libraries, components, and CDNs. Guide the team, while testing the ground by coding the core features. Integrated a substantial portion of the business logic into the project while establishing essential workflows and tools for the team. Collaborating with fellow team members, I deliberated on optimization techniques and clean coding methodologies to ensure the project remained swift and scalable. (Javascript, React, Redux-toolkit, Webpack/Vite (bundle jobs), Jira, Azure, WebSockets, REST, Tasks administration, Agile)
       startDate: 2023/03
       endDate: 2024/03
+      skills:
+        - title: Javascript
+          icon: i-logos-javascript
+        - title: React
+          icon: i-logos-react
+        - title: Redux
+          icon: i-logos-redux
+        - title: Webpack
+          icon: i-logos-webpack
+        - title: Vite
+          icon: i-logos-vitejs
+        - title: Jira
+          icon: i-logos-jira
+        - title: Websockets
+        - title: REST
+        - title: Task administration
+        - title: Agile
     - position: Front-End Software Engineer
       date: 2020 - 2021
       company:
