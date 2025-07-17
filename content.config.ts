@@ -50,7 +50,8 @@ export default defineContentConfig({
         contact: createContactSchema(),
         experience: createBaseSchema().extend({
           items: z.array(z.object({
-            date: z.date(),
+            startDate: z.string(),
+            endDate: z.string(),
             position: z.string(),
             description: z.string().optional(),
             company: z.object({
