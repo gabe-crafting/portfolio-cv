@@ -1,52 +1,55 @@
 seo:
-  title: "Emma Thompson - UX/UI Designer"
-  description: "Welcome to my portfolio! I'm Emma Thompson, a UX/UI designer and front-end developer based in Boston. I specialize in creating user-centered digital experiences that are both beautiful and functional."
-title: "Hey, I'm Emma Thompson UX/UI Designer"
-description: "I craft intuitive digital experiences where design meets functionality. Based in Boston, bringing ideas to life through code and creativity."
+  title: Apostol Gabriel - Senior Front-End Software Engineer
+  description: 'Passionate software engineer with a focus on frontend. Favorite libraries are react, vue. Framework of choice: nuxt'
+title: Apostol Gabriel - Senior Front-End Software Engineer
+description: 'Passionate software engineer with a focus on frontend. Favorite libraries are react, vue. Framework of choice: nuxt'
 contact:
-  phone: "0761030884"
-  email: "apostol.gabriel90@gmail.com"
-  linkedin: "https://www.linkedin.com/in/gabriel-apostol-135305140/"
-  github: ""
+  phone: '0761030884'
+  email: apostol.gabriel90@gmail.com
+  linkedin: https://www.linkedin.com/in/gabriel-apostol-135305140/
+  github: ''
 experience:
   title: Work Experience
   items:
-    - position: "Brand Designer at"
-      description: "Designing and implementing brand strategies and visual identities."
-      date: "2023 - Present"
+    - position: Senior Frontend Developer
+      description: Assume responsibility for the entire frontend development of a banking and insurance react application. Collaborate closely with the backend, testing, and business teams to ensure continuous deployment and integration, ultimately bringing the project to completion. Occasionally partner with frontend and design teams from other companies to integrate with associated software.
+      date: '2024-04-01T00:00:00.000Z'
       company:
-        name: Nuxt
-        logo: "i-simple-icons-nuxtdotjs"
-        url: "https://nuxt.com"
-        color: "#00DC82"
-    - position: "Assets Designer at"
-      date: "2022 - 2023"
+        name: Cegeka
+        logo: ''
+        url: ''
+        color: '#00DC82'
+    - position: Assets Designer at
+      date: 2022 - 2023
       company:
         name: Raycast
-        logo: "i-simple-icons-raycast"
-        url: "https://raycast.com"
-        color: "#FF6363"
-    - position: "Senior UX/UI Designer at"
-      date: "2020 - 2021"
+        logo: i-simple-icons-raycast
+        url: https://raycast.com
+        color: '#FF6363'
+    - position: Senior UX/UI Designer at
+      date: 2020 - 2021
       company:
         name: Linear
-        logo: "i-simple-icons-linear"
-        url: "https://linear.app"
-        color: "#5E6AD2"
-skills: 
-  - title: "react"
-    icon: "i-simple-icons-react"
-  - title: "vue"
-    icon: "i-simple-icons-vue-dot-js"
+        logo: i-simple-icons-linear
+        url: https://linear.app
+        color: '#5E6AD2'
+skills:
+  - title: react
+    icon: i-simple-icons-react
+  - title: vue
+    icon: i-simple-icons-vue-dot-js
 advancedSkills:
-  - title: "react"
-    icon: "i-simple-icons-react"
-  - title: "vue"
-    icon: "i-simple-icons-vue-dot-js"
+  - title: react
+    icon: i-simple-icons-react
+  - title: vue
+    icon: i-simple-icons-vue-dot-js
 projects:
-  - title: "Portfolio Website"
-    description: "A personal portfolio website showcasing my design and development work."
-  - title: "Portfolio Website"
-    description: "A personal portfolio website showcasing my design and development work."
-  - title: "Portfolio Website"
-    description: "A personal portfolio website showcasing my design and development work."
+  - title: Portfolio Website
+    description: A personal portfolio website showcasing my design and development work.
+  - title: Portfolio Website
+    description: A personal portfolio website showcasing my design and development work.
+  - title: Portfolio Website
+    description: A personal portfolio website showcasing my design and development work.
+hero:
+  images: []
+  links: []
