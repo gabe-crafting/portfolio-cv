@@ -47,6 +47,12 @@ experience:
       description: Mostly work on front-end and UI/UX, occasionally assisting backend and our clients in Testing, overall using Agile methodology. Used React to build and maintain features of complex Single page applications for PC and Mobile Participate in building the app's Architecture for best Modularity, Performance, and Adaptability in concordance with customer needs
       company:
         name: Advahoo
+    - startDate: 2018/11
+      endDate: 01/2019
+      position: Java Developer - Internship
+      description: Worked on the Frontend and UI/UX on a project made for a particular group of clients. Providing and implementing solutions for their needs. Implement Backend APIs in JAVA in concordance with Business logics
+      company:
+        name: UniCredit Services
 skills:
   - title: react
     icon: i-simple-icons-react
