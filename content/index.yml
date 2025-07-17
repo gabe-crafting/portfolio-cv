@@ -13,21 +13,24 @@ experience:
   items:
     - position: Senior Frontend Developer
       description: Assume responsibility for the entire frontend development of a banking and insurance react application. Collaborate closely with the backend, testing, and business teams to ensure continuous deployment and integration, ultimately bringing the project to completion. Occasionally partner with frontend and design teams from other companies to integrate with associated software.
-      date: '2024-04-01T00:00:00.000Z'
+      startDate: '2024-04-01T00:00:00.000Z'
+      endDate: '2024-04-01T00:00:00.000Z'
       company:
         name: Cegeka
         logo: ''
         url: ''
         color: '#00DC82'
     - position: Assets Designer at
-      date: 2022 - 2023
+      startDate: '2024-04-01T00:00:00.000Z'
+      endDate: '2024-04-01T00:00:00.000Z'
       company:
         name: Raycast
         logo: i-simple-icons-raycast
         url: https://raycast.com
         color: '#FF6363'
     - position: Senior UX/UI Designer at
-      date: 2020 - 2021
+      startDate: '2024-04-01T00:00:00.000Z'
+      endDate: '2024-04-01T00:00:00.000Z'
       company:
         name: Linear
         logo: i-simple-icons-linear
