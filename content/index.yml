@@ -30,7 +30,7 @@ experience:
       date: 2022 - 2023
       company:
         name: Whitestone Software
-        logo: i-simple-icons-raycast
+        logo: ''
         url: https://raycast.com
         color: '#FF6363'
       description: Leading the architecture of a React application with micro-frontends; multiple libraries, components, and CDNs. Guide the team, while testing the ground by coding the core features. Integrated a substantial portion of the business logic into the project while establishing essential workflows and tools for the team. Collaborating with fellow team members, I deliberated on optimization techniques and clean coding methodologies to ensure the project remained swift and scalable. (Javascript, React, Redux-toolkit, Webpack/Vite (bundle jobs), Jira, Azure, WebSockets, REST, Tasks administration, Agile)
