@@ -108,6 +108,13 @@ experience:
           icon: i-logos-javascript
         - title: Postgress SQL
           icon: i-logos-postgresql
+    - startDate: '2015'
+      skills: []
+      endDate: '2018'
+      position: Student
+      company:
+        name: University of Bucharest
+      description: Bachelor degree in Computer Science
 skills:
   - title: React
     icon: i-simple-icons-react
