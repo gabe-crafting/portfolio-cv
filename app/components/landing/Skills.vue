@@ -19,7 +19,7 @@ defineProps<{
     <div class=" grid grid-cols-2">
       <div class="text-center ">
         <h1 class="mb-2 text-xl">
-          Technologies I worked with
+          Worked most with
         </h1>
         <div class=" flex flex-wrap items-center w-full gap-2 justify-center">
           <UBadge
@@ -37,7 +37,7 @@ defineProps<{
 
       <div class="text-center ">
         <h1 class="mb-2 text-xl">
-          Worked most with
+          Technologies and Concepts I worked with
         </h1>
         <div class=" flex flex-wrap items-center w-full gap-2 justify-center">
           <UBadge
