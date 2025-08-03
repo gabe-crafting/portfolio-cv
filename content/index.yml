@@ -17,7 +17,7 @@ experience:
       company:
         name: Cegeka
         logo: ''
-        url: ''
+        url: https://www.cegeka.com/ro/
         color: ''
       startDate: 2024/04/01
       endDate: Present
@@ -37,7 +37,7 @@ experience:
       company:
         name: Whitestone Software
         logo: ''
-        url: https://raycast.com
+        url: ''
         color: ''
       description: Leading the architecture of a React application with micro-frontends; multiple libraries, components, and CDNs. Guide the team, while testing the ground by coding the core features. Integrated a substantial portion of the business logic into the project while establishing essential workflows and tools for the team. Collaborating with fellow team members, I deliberated on optimization techniques and clean coding methodologies to ensure the project remained swift and scalable.
       startDate: 2023/03
@@ -64,7 +64,7 @@ experience:
       company:
         name: Arnia Software
         logo: ''
-        url: ''
+        url: https://www.arnia.com/
         color: ''
       startDate: 2021/06
       endDate: 2023/03
@@ -85,6 +85,7 @@ experience:
       description: Mostly work on front-end and UI/UX, occasionally assisting backend and our clients in Testing, overall using Agile methodology. Used React to build and maintain features of complex Single page applications for PC and Mobile Participate in building the app's Architecture for best Modularity, Performance, and Adaptability in concordance with customer needs
       company:
         name: Advahoo
+        url: https://www.advahoo.ro/
       skills:
         - title: Javascript
           icon: i-logos-javascript
@@ -114,6 +115,7 @@ experience:
       position: Student
       company:
         name: University of Bucharest
+        url: https://fmi.unibuc.ro/
       description: Bachelor degree in Computer Science
 skills:
   - title: React
