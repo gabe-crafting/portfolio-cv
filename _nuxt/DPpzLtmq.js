@@ -1,0 +1,1 @@
+import{r}from"./B-DYka-K.js";import e from"./DbMLo4qA.js";import{y as t,B as a,h as c,w as n,E as p}from"./Dmem3-OP.js";const l={__name:"ProseTip",setup(i){const o=t();return(s,f)=>(c(),a(e,{color:"success",icon:p(o).ui.icons.tip},{default:n(()=>[r(s.$slots,"default",{mdcUnwrap:"p"})]),_:3},8,["icon"]))}};export{l as default};
