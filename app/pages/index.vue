@@ -23,6 +23,7 @@ useSeoMeta({
     <div class="flex flex-col items-center justify-center gap-4 px-4 py-8 sm:py-12 lg:py-16">
       <LandingHero :page />
       <LandingContacts :page />
+      <LandingDescription :page />
       <LandingWorkExperience :page />
       <LandingSkills :page />
       <LandingProjects :page />
