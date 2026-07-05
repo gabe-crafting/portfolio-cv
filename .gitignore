@@ -4,5 +4,14 @@
 .idea
 .history
 
+# Dependencies
+node_modules
+
 # Local preview
 _site
+
+# Job applications tracker
+applications/
+
+# Cursor rules
+.cursor/rules/

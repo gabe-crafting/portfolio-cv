@@ -265,4 +265,8 @@ a:hover {
   .job {
     break-inside: avoid;
   }
+
+  .contact-website {
+    display: none;
+  }
 }
