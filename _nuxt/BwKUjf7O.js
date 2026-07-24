@@ -1,1 +1,0 @@
-import{r as a}from"./B-DYka-K.js";import t from"./DbMLo4qA.js";import{y as e,B as n,h as s,w as c,E as i}from"./Dmem3-OP.js";const l={__name:"ProseCaution",setup(p){const o=e();return(r,f)=>(s(),n(t,{color:"error",icon:i(o).ui.icons.caution},{default:c(()=>[a(r.$slots,"default",{mdcUnwrap:"p"})]),_:3},8,["icon"]))}};export{l as default};
